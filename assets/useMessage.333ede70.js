@@ -1,0 +1,1 @@
+import{t as a}from"./element-plus.93e1469c.js";var E=(s=>(s.ELEMENT_MESSAGE_BOX_SIZE="300px",s.ELEMENT_MESSAGE_BOX_CLASS="message-box-custom-class",s))(E||{});function e(s,S){a({message:S,type:s,duration:2e3,customClass:E.ELEMENT_MESSAGE_BOX_CLASS})}export{E,e as u};
